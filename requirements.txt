@@ -1,0 +1,10 @@
+streamlit
+google-generativeai
+python-dotenv
+langchain
+faiss-cpu
+langchain_google_genai
+nltk
+pdfplumber
+tabula
+python-docx
